@@ -35,10 +35,14 @@
 
 <p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/67ab5297-4198-429e-8182-cf67b43777cd" width="39" height="39" alt="Spring" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/dd625e33-b431-4bdb-be0e-c9b1f7ebff02" width="36" height="36" alt="Maven" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ffe67eea-fb7d-427e-88d1-aca27652e268" width="75" height="36" alt="Kafka" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e1268e7f-e2be-4aab-9807-27ac81154c7b" width="39" height="39" alt="SBER" /></a>
 </p>
 
 
