@@ -1,4 +1,5 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/1aef3a50-0606-4242-9c2d-cc123e0e4bbc)
+
+![programmer](https://github.com/user-attachments/assets/d5778bf1-96bb-46a7-b342-73dffc6f1e09)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zelenov Sergei
