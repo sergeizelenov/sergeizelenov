@@ -45,5 +45,6 @@
 <a target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e1268e7f-e2be-4aab-9807-27ac81154c7b" width="39" height="39" alt="SBER" /></a>
 </p>
 
-
-
+<div align="center">
+<img width="600" src="https://github.com/user-attachments/assets/8347a138-5b18-43b4-98fc-8e53a0b9fcd1" alt="snake" style="max-width: 100%;">
+</div>
