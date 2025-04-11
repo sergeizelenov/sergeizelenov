@@ -3,12 +3,21 @@
   <img height="300" width="600" src=https://github.com/user-attachments/assets/d8e04e28-dff2-4edd-b0bf-b0d8ebe3edfd />
 </div>
 
- 
-
+###
 
 <h1 align="center">Привет👋 Меня зовут Сергей!</h1>
 
 <h3 align="center">Back-end разработчик | Java | Spring |</h3>
+
+###
+
+<div align="center">
+ <a href="https://t.me/gavaec" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
 
 👩‍💻 Я начинающий Backend разработчик на Java. За спиной имею внушительный бэкграунд работы в банковской сфере. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива я поступил на учебу в НГТУ им. Р.Е. Алексеева на курс "Java-разработчик", студентом которого в настоящее время и являюсь. 
 - 🔭 Участвовал в бассейне Школы 21 от Сбера.
@@ -18,6 +27,8 @@
 * 🌍  I'm based in Nizhniy Novgorod
 * ✉️  You can contact me at [https://t.me/gavaec](mailto:https://t.me/gavaec)
 * 🧠  I'm learning Java | Spring | Hibernate | SQL | Docker | JUnit 5 | Maven | Redis | GIT | CI/CD | AWS | Kafka
+
+  ###
 
 <h3 align="center"> Skills</h3>
 
